@@ -6,3 +6,6 @@ The product aims to use delivery robots in order to accomdate higher distance ro
 
 Why the project is useful-
 It will be useful due to the fact that there is no other company that has long distance robotic deliveries other than the robot taxi that is being tested out in San Francisco. By increasing the amount of distance, it would revolutionize the market as it would open opportunities for deliveries late in to the night where it would otherwise be deemed unsafe for a delivery.
+
+Where user can get help?
+Users are more than welcome to contact the contributors to answer any questions that may arise regarding the project. 
