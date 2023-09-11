@@ -1,3 +1,3 @@
 # Group-1-
 
-Christian Reyes, Carolina Barchecho, Roy Alkoury, and Flora Luo contribute and maintain the project.
+Christian Reyes, Carolina Barchecho, Roy Alkhoury, and Flora Luo contribute and maintain the project.
