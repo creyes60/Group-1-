@@ -1,4 +1,4 @@
-# Group-1-
+# Group-1
 
 Christian Reyes, Carolina Barchecho, Roy Alkhoury, and Flora Luo contribute and maintain the project.
 What the project does-
@@ -9,3 +9,5 @@ It will be useful due to the fact that there is no other company that has long d
 
 Where user can get help?
 Users are more than welcome to contact the contributors to answer any questions that may arise regarding the project. 
+
+Also for more information chrck out the wiki [here](https://github.com/creyes60/Group-1-/wiki)!
